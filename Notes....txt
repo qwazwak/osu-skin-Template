@@ -1,0 +1,1 @@
+A: Files that has @2x on their names are used if you're using resolutions above 1280x800.
