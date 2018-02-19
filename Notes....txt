@@ -1,1 +1,23 @@
 A: Files that has @2x on their names are used if you're using resolutions above 1280x800.
+
+9. Creating .osk files
+
+All that the user will need to do is open the file with osu!.
+You need to create .osk (osu! skin) file. You can create one from the skin selection screen, or manually with the steps below.
+
+Creating .osk file with WinRAR
+
+Creating .osk file with 7-ZIP
+
+In short : You need to create .zip archive and simply change extension to .osk
+
+
+https://osu.ppy.sh/forum/t/51694
+
+
+https://osu.ppy.sh/help/wiki/Skinning/skin.ini/Blank
+
+https://osu.ppy.sh/help/wiki/Skinning/skin.ini
+
+names of all files
+https://osu.ppy.sh/help/wiki/Ranking_Criteria/Skin_Set_List/
