@@ -1,0 +1,4 @@
+Note:
+-Check preview.png to see which color is which number
+-PSD provided if you have Photoshop and want to get a specific color by yourself
+-PSD for mania-note isn't needed, it's just a flat color

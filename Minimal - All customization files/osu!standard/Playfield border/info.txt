@@ -1,0 +1,5 @@
+Note: 
+-These folders are different aspect ratios. Just open the folder
+with your screen's aspect ratio and move the files like normal.
+-Comma being used instead of colon because Windows doesn't
+allow colon in file/folder names

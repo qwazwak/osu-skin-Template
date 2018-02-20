@@ -1,0 +1,19 @@
+Note:
+-Enable "Ignore all beatmap skins" in the options of the game
+-This customization removes support for combo colors
+-I included a psd file to customize the color if you want. Don't forget
+to also change the color in the skin.ini (Combo1)
+
+
+-- --
+
+Changes made to skin.ini file (just ignore unless you know what you're doing)
+// + means added
+// - means removed
+// > means changed (showing how it looks after the change)
+
++ HitCircleOverlap: 150    // [Fonts]
+- Combo2: 88,231,138       // [Colours]
+- Combo3: 231,88,88        // [Colours]
+- Combo4: 88,179,231       // [Colours]
+> Combo1: 73,193,172       // [Colours]

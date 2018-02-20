@@ -1,0 +1,18 @@
+If you don't find any info.txt files inside the folder of the customization
+you want to install, then you will only need to move the files into the skin's folder.
+Don't move the folder, only the contents inside of it.
+
+Sometimes there will be info folders that contain PSDs, preview PNGs or/and info.txt.
+
+It's not necessary to move the info.txt file or the info folder.
+
+I recommend you to create a copy of the skin folder for your customization, so you can
+switch between the customized and the default one easily. An example where this might be
+useful is a customization such as playfield border, that works as well in standard but
+appears weird in mania. This is how my skins folder is right now, to give you an idea:
+https://i.imgur.com/62cqQ2y.png
+
+-- --
+
+Forum thread:
+https://osu.ppy.sh/community/forums/topics/564208
